@@ -4,32 +4,42 @@ export default function CoreServices() {
   const services = [
     {
       title: "Social Media Marketing",
-      description: "Engaging content and community-driven campaigns that convert.",
+      description: "Strategic campaigns that build visibility and engagement.",
       link: "/services#digital-strategy",
     },
     {
       title: "Influencer Marketing",
-      description: "Leveraging influencers to amplify your brand’s story and sales.",
+      description: "Authentic collaborations with the right voices to elevate your brand.",
       link: "/services#social-media",
     },
     {
-      title: "Creative Production",
-      description: "High-quality content creation — from videos to podcasts, we tell your brand’s story.",
+      title: "Content Strategy & Creative Development",
+      description: "Content that resonates and drives meaningful action.",
       link: "/services#performance-marketing",
     },
     {
       title: "Performance Marketing",
-      description: "Data-driven campaigns designed to optimize ROI and drive conversions.",
+      description: "Maximizing ROI with data-driven ad strategies..",
       link: "/services#branding",
     },
        {
-      title: "Web Development",
-      description: "Beautiful, functional websites that bring your brand to life.",
+      title: "Brand Strategy & Positioning",
+      description: "Crafting a unique identity for your brand.",
       link: "/services#branding",
     },
        {
-      title: "E-commerce Services",
-      description: "End-to-end e-commerce solutions that scale your brand online.",
+      title: "Creative Campaigns & IP Development",
+      description: "Building memorable brand experiences that resonate over time.",
+      link: "/services#branding",
+    },
+        {
+      title: "E-commerce & Quick Commerce Solutions",
+      description: "End-to-end eCommerce management, from platform setup to sales acceleration.",
+      link: "/services#branding",
+    },
+        {
+      title: "Production & Media Creation",
+      description: "High-quality production that brings your brand to life.",
       link: "/services#branding",
     },
   ]

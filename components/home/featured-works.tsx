@@ -111,66 +111,66 @@ export default function FeaturedWorks() {
     // Example 1: YouTube Video
     {
       id: 1,
-      title: "Brand Campaign Video",
-      description: "Digital campaign for a leading fashion brand",
-      category: "Video Production",
-      type: "youtube",
+      title: "Clearly Tripping",
+      description: "“Varkala” if you wanna have Goa level experience but on a budget!", 
+      category: "Social Media",
+      type: "instagram",
       // Replace with your actual YouTube video ID
-      media: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      media: "https://www.instagram.com/reel/DD1Ge6CP7fs/embed",
     },
 
     // Example 2: Instagram Reel
     {
       id: 2,
-      title: "Product Launch Reel",
-      description: "Viral reel for new product launch",
+      title: "grow.kwik",
+      description: "This retail shift is quietly creating super-customers—and 90% of founders will miss it",
       category: "Social Media",
       type: "instagram",
       // Replace with your actual Instagram post embed URL
-      media: "https://www.instagram.com/reel/CyQpEzASm4Q/embed",
+      media: "https://www.instagram.com/reel/DJT-TqqzEYR/embed",
     },
 
     // Example 3: Vimeo Video
     {
       id: 3,
-      title: "Corporate Documentary",
-      description: "Behind-the-scenes look at corporate culture",
-      category: "Documentary",
-      type: "vimeo",
+      title: "theradical_era",
+      description: "You must be tired of all the gyaan the influencers are giving out, and scrolling through the Instagram watching reels of the various case studies of different businesses, right!?",
+      category: "Social Media",
+      type: "instagram",
       // Replace with your actual Vimeo video ID
-      media: "https://player.vimeo.com/video/76979871",
+      media: "https://www.instagram.com/reel/CzD0ZBVIKuM/embed",
     },
 
     // Example 4: Regular Image
     {
       id: 4,
-      title: "Brand Identity Design",
-      description: "Complete rebrand for tech startup",
-      category: "Branding",
-      type: "image",
-      media: "/placeholder.svg?height=400&width=600",
+      title: "Aevy TV",
+      description: "Why I Quit My Corporate Job To Do YouTube-Aevy Tv",
+      category: "Youtube",
+      type: "youtube",
+      media: "https://www.youtube.com/watch?v=gqbTmZDzPXU",
     },
 
     // Example 5: Another YouTube Video
     {
       id: 5,
-      title: "Marketing Strategy Explainer",
-      description: "Animated explainer video on marketing strategy",
-      category: "Animation",
+      title: "The Piyush Kukreja",
+      description: "The Piyush Kukreja Show 3.0",
+      category: "Youtube",
       type: "youtube",
       // Replace with your actual YouTube video ID
-      media: "https://www.youtube.com/embed/jNQXAC9IVRw",
+      media: "https://www.youtube.com/watch?v=V_7iS2RDbjY",
     },
 
     // Example 6: Another Instagram Reel
     {
       id: 6,
-      title: "Influencer Campaign",
-      description: "Collaboration with top industry influencers",
-      category: "Influencer Marketing",
-      type: "instagram",
+      title: "VTP AV",
+      description: "High-Impact AV for VTP Realty | Video Editing, Motion Graphics & Voiceover Production",
+      category: "Animation",
+      type: "vimeo",
       // Replace with your actual Instagram post embed URL
-      media: "https://www.instagram.com/p/CpvKH0trTSH/embed",
+      media: "https://player.vimeo.com/video/1065864640?h=bc26fc47a5",
     },
   ]
 

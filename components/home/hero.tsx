@@ -27,7 +27,7 @@ export default function Hero() {
       setTimeout(() => {
         setIsFlipping(false)
       }, 1000)
-    }, 5000)
+    }, 2000)
 
     return () => clearInterval(interval)
   }, [])

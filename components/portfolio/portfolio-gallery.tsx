@@ -303,60 +303,65 @@ const portfolioData = {
   // Portfolio items
   items: [
     {
-      id: 1,
-      title: "A World Trasformed by Learning",
-      description: "Custom 2D Animation | Character Design & Motion Graphics",
-      category: "motion-ani",
-      subcategory: "",
-      type: "vimeo",
-      media: "https://player.vimeo.com/video/1065859246?h=aaa8715a97",
-    },
-    {
-      id: 2,
-      title: "Moro cloud",
-      description: "Minimalist & Impactful Animation | Icon & Graphic Motion Design",
-      category: "motion-ani",
-      subcategory: "",
-      type: "vimeo",
-      media: "https://player.vimeo.com/video/1065865476?h=1b80f930d9",
-    },
-    {
-      id: 3,
-      title: "Moro Hub Dubai website lunch",
-      description: "Typography & Motion Graphics | Dynamic Visual Storytelling",
-      category: "motion-ani",
-      subcategory: "",
-      type: "vimeo",
-      media: "https://player.vimeo.com/video/1065865532?h=ba1c3a1c2c", // Replace with actual YouTube embed URL
+       id: 1,
+      title: "Grow.kwik",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJMveOcz5oo/embed", // Replace with actual Vimeo embed URL
       featured: true,
     },
     {
-      id: 4,
-      title: "MORO",
-      description: "Informative Explainer Video | Illustration & Motion Graphics",
-      category: "motion-ani",
-      subcategory: "",
-      type: "vimeo",
-      media: "https://player.vimeo.com/video/1065865427?h=87bbefa42d", // Replace with actual Instagram embed URL
-    },
-    {
-      id: 5,
-      title: "VTP AV",
-      description: "High-Impact AV for VTP Realty | Video Editing, Motion Graphics & Voiceover Production",
-      category: "motion-ani",
-      subcategory: "",
-      type: "vimeo",
-      media: "https://player.vimeo.com/video/1065864640?h=bc26fc47a5",
+       id: 2,
+      title: "Grow.kwik",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJj0NB4TYOj/embed", // Replace with actual Vimeo embed URL
       featured: true,
     },
     {
-      id: 6,
-      title: "3000cr",
-      description: "VTP Realty – ₹3000 Crore Milestone | High-Impact Motion Graphics & Video Editing",
-      category: "motion-ani",
-      subcategory: "",
-      type: "vimeo",
-      media: "https://player.vimeo.com/video/1065864311?h=7ba31121de", // Replace with actual YouTube embed URL
+     id: 3,
+      title: "Grow.kwik",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJmm9NHzBYH/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+    {
+       id: 4,
+      title: "Clearly_tripping",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DD_ZK8JP53K/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+    {
+    id: 5,
+      title: "Clearly_tripping",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJJDJ-Eva9Z/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+    {
+       id: 6,
+      title: "Clearly_tripping",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJEmRSdsRiE/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+      
     },
     {
       id: 7,
@@ -388,12 +393,12 @@ const portfolioData = {
     },
     {
       id: 10,
-      title: "NuutJob final",
+      title: "BrokerinBlue",
       description: "",
       category: "content",
-      subcategory: "youtube",
-      type: "youtube",
-      media: "https://www.youtube.com/watch?v=eyAJPIQtyy4", // Replace with actual Vimeo embed URL
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJRjWRlKpmL/embed", // Replace with actual Vimeo embed URL
       featured: true,
     },
     {
@@ -415,9 +420,150 @@ const portfolioData = {
       media: "https://www.instagram.com/reel/CxF46IRSw3E/embed", // Replace with actual Vimeo embed URL
       featured: true,
     },
+  {
+      id: 13,
+      title: "Moro cloud",
+      description: "Minimalist & Impactful Animation | Icon & Graphic Motion Design",
+      category: "motion-ani",
+      subcategory: "",
+      type: "vimeo",
+      media: "https://player.vimeo.com/video/1065865476?h=1b80f930d9",
+    },
+  {
+     id: 14,
+      title: "Moro Hub Dubai website lunch",
+      description: "Typography & Motion Graphics | Dynamic Visual Storytelling",
+      category: "motion-ani",
+      subcategory: "",
+      type: "vimeo",
+      media: "https://player.vimeo.com/video/1065865532?h=ba1c3a1c2c", // Replace with actual YouTube embed URL
+      featured: true,
+    },
+      {
+    id: 15,
+      title: "A World Trasformed by Learning",
+      description: "Custom 2D Animation | Character Design & Motion Graphics",
+      category: "motion-ani",
+      subcategory: "",
+      type: "vimeo",
+      media: "https://player.vimeo.com/video/1065859246?h=aaa8715a97",
+    },
+      {
+    id: 16,
+      title: "MORO",
+      description: "Informative Explainer Video | Illustration & Motion Graphics",
+      category: "motion-ani",
+      subcategory: "",
+      type: "vimeo",
+      media: "https://player.vimeo.com/video/1065865427?h=87bbefa42d", // Replace with actual Instagram embed URL
+    },
+      {
+    id: 17,
+  
+      title: "VTP AV",
+      description: "High-Impact AV for VTP Realty | Video Editing, Motion Graphics & Voiceover Production",
+      category: "motion-ani",
+      subcategory: "",
+      type: "vimeo",
+      media: "https://player.vimeo.com/video/1065864640?h=bc26fc47a5",
+      featured: true,
+    },
+      {
+    id: 18,
+     
+      title: "3000cr",
+      description: "VTP Realty – ₹3000 Crore Milestone | High-Impact Motion Graphics & Video Editing",
+      category: "motion-ani",
+      subcategory: "",
+      type: "vimeo",
+      media: "https://player.vimeo.com/video/1065864311?h=7ba31121de", // Replace with actual YouTube embed URL
+    },
+      {
+      id: 19,
+      title: "BrokerinBlue",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DJEswLfBnbw/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
 
+       {
+      id: 20,
+      title: "BrokerinBlue",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DI3phy7BgbZ/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+       {
+      id: 21,
+      title: "BrokerinBlue",
+      description: "",
+      category: "content",
+      subcategory: "reels",
+      type: "instagram",
+      media: "https://www.instagram.com/reel/DIWZ947Bi66/embed", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
 
-
+        {
+      id: 22,
+      title: "Travel app mockup. ",
+      description: "",
+      category: "ui-ux",
+      type: "image",
+      media: "/ui-ux/1.png", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+      {
+      id: 23,
+      title: "Travel app mockup. ",
+      description: "",
+      category: "ui-ux",
+      type: "image",
+      media: "/ui-ux/2.png", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+     {
+      id: 24,
+      title: "Travel app mockup. ",
+      description: "",
+      category: "ui-ux",
+      type: "image",
+      media: "/ui-ux/3.png", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+     {
+      id: 25,
+      title: "Travel app mockup. ",
+      description: "",
+      category: "ui-ux",
+      type: "image",
+      media: "/ui-ux/4.png", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+     {
+      id: 26,
+      title: "Travel app mockup. ",
+      description: "",
+      category: "ui-ux",
+      type: "image",
+      media: "/ui-ux/5.png", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
+     {
+      id: 27,
+      title: "Travel app mockup. ",
+      description: "",
+      category: "ui-ux",
+      type: "image",
+      media: "/ui-ux/6.png", // Replace with actual Vimeo embed URL
+      featured: true,
+    },
   ],
 }
 
