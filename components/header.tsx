@@ -207,7 +207,7 @@ export default function Header() {
             href="https://calendly.com/jsaddiwal" // replace with your actual Calendly URL
             target="_blank"
             rel="noopener noreferrer"
-            className="ml-4 px-5 py-2 rounded font-semibold bg-teal-500 text-white hover:bg-teal-600 transition-colors"
+            className="ml-4 px-5 py-2 rounded font-semibold bg-[#E6BC00] text-white hover:bg-[#d1a700] transition-colors"
           >
             Schedule a Meet
           </a>
